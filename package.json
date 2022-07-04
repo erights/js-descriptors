@@ -1,0 +1,19 @@
+{
+  "name": "@cst-tokens/js-descriptors",
+  "version": "0.1.0",
+  "author": "Conrad Buck<conartist6@gmail.com>",
+  "exports": {
+    ".": "./lib/index.js"
+  },
+  "sideEffects": false,
+  "dependencies": {
+    "@babel/types": "*",
+    "@iter-tools/regex": "0.3.0",
+    "escape-string-regexp": "4.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  },
+  "repository": "github:js-cst-tokens/js-descriptors",
+  "license": "MIT"
+}
